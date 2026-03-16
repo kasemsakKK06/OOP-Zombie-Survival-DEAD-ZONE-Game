@@ -253,15 +253,16 @@ python main.py
 ---
 
 
-# 📚 วัตถุประสงค์ทางการศึกษา
+## 📚 วัตถุประสงค์ทางการศึกษา
 
-โปรเจกต์นี้พัฒนาขึ้นเพื่อใช้เป็น **Final Project ของรายวิชา Object-Oriented Programming**
+โปรเจกต์นี้พัฒนาขึ้นเพื่อใช้เป็น **Final Project** ของรายวิชา  
+**1145105-68 การเขียนโปรแกรมเชิงวัตถุ (Object-Oriented Programming)**  
 เพื่อแสดงการประยุกต์ใช้แนวคิดดังต่อไปนี้
 
-* Object-Oriented Programming
-* SOLID Principles
-* Game Architecture Design
-* การพัฒนาเกมด้วย Python และ PyGame
+- Object-Oriented Programming (OOP)
+- SOLID Principles
+- Game Architecture Design
+- การพัฒนาเกมด้วย Python และ PyGame
 
 ---
 
